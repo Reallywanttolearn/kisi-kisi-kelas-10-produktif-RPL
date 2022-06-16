@@ -104,6 +104,23 @@ if($total_belanja > 100000){
     echo "Anda dapat hadiah!";
 }
 ```
+
+Percabangan If/Else memiliki dua pilihan. Jika  `<kondisi>`  bernilai  `false`, maka blok else akan dikerjakan.
+
+Contoh:
+
+```php
+<?php
+
+$umur = 13;
+
+if ($umur < 18 ){
+    echo "Kamu tidak boleh membuka situs ini!";
+} else {
+    echo "Selamat datang di website kami!";
+}
+?>
+```
 ## 3.  ARRAY
 ### - Apa itu Array?
 
