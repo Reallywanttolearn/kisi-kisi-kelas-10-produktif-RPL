@@ -105,7 +105,7 @@ if($total_belanja > 100000){
 }
 ```
 ## 3.  ARRAY
-## Apa itu Array?
+### - Apa itu Array?
 
 Array adalah salah satu struktur data yang berisi sekumpulan data dan memiliki indeks. Indeks digunakan untuk mengakses nilai array.
 
@@ -119,7 +119,7 @@ Jadi, apabila kita ingin menampilkan “Hardisk 2TB”, maka kita harus mengampi
 
 Untuk leblih jelasnya, mari kita coba…
 
-## 2. Membuat Array di PHP
+### - Membuat Array di PHP
 
 Array di PHP dapat kita buat dengan fungsi  `array()`  dan tanda kurung kotak  `[]`.
 
@@ -154,7 +154,7 @@ Contoh:
 $item = ["Bunga", 123, 39.12, true];
 ```
 
-## 3. Menampilkan isi Array
+### - Menampilkan isi Array
 
 Untuk menampilkan isi array, kita bisa mengaksesnya melalui indeks.
 
